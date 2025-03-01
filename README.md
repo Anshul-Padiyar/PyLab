@@ -2,24 +2,28 @@
 
 Welcome to PyLab - My Python learning laboratory where I document my journey through Python programming.
 
+![Python Version](https://img.shields.io/badge/python-3.13-blue.svg)
+
+This repository contains my learning progress, exercises, and projects as I explore Python programming. Each chapter is organized with examples and problem solutions.
+
 ## 🎯 Learning Goals
 
 ### Basics
 
-- [x] 1. [Introduction to Programming](#)
-- [x] 2. [Modules, Comments & pip](./Chapter-01/)
-- [x] 3. [Variables and Datatypes](./Chapter-02/)
-- [ ] 4. [Strings](#)
-- [ ] 5. [Lists and Tuples](#)
-- [ ] 6. [Dictionary & Sets](#)
-- [ ] 7. [Conditional Expressions](#)
-- [ ] 8. [Loops](#)
-- [ ] 9. [Functions & Recursions](#)
+- [x] 00. [Introduction to Programming](#)
+- [x] 01. [Modules, Comments & pip](./Chapter-01/)
+- [x] 02. [Variables and Datatypes](./Chapter-02/)
+- [ ] 03. [Strings](#)
+- [ ] 04. [Lists and Tuples](#)
+- [ ] 05. [Dictionary & Sets](#)
+- [ ] 06. [Conditional Expressions](#)
+- [ ] 07. [Loops](#)
+- [ ] 08. [Functions & Recursions](#)
 
 ### Intermediate
 
-- [ ] 10. [File I/O](#)
-- [ ] 11. [Object Oriented Programming](#)
+- [ ] 09. [File I/O](#)
+- [ ] 10. [Object Oriented Programming](#)
 
 _[will update soon]_
 
