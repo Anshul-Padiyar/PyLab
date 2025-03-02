@@ -10,7 +10,7 @@ This repository contains my learning progress, exercises, and projects as I expl
 
 ### Basics
 
-- [x] 00. [Introduction to Programming](#)
+- [x] 00. [Introduction to Programming](./Chapter-00/)
 - [x] 01. [Modules, Comments & pip](./Chapter-01/)
 - [x] 02. [Variables and Datatypes](./Chapter-02/)
 - [ ] 03. [Strings](#)
