@@ -25,7 +25,7 @@ This repository contains my learning progress, exercises, and projects as I expl
 - [ ] 09. [File I/O](#)
 - [ ] 10. [Object Oriented Programming](#)
 
-_[will update soon]_
+_[will update soon...]_
 
 ### Projects
 
@@ -38,5 +38,9 @@ _[will update soon]_
 ## 📚 Resources
 
 Learning Python with [CodeWithHarry's Python Course](https://youtu.be/UrsmFxEIp5k)
+
+### Reference Materials
+- [Python Complete Notes](https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/notes/Python_Complete_Notes.pdf)
+- [The Ultimate Python Handbook](https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/YouTube/The%20Ultimate%20Python%20Handbook.pdf)
 
 _[Will be updated as I discover helpful learning materials]_
