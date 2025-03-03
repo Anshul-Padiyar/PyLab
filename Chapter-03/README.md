@@ -78,57 +78,67 @@ In the first example, the slice starts from the beginning and stops at index 7. 
 
 ## STRING FUNCTIONS
 
-Some of the commonly used functions to perform operations on or manipulate strings are as follows. Let us assume there is a string ‘str’ as follows: 
+Here are some commonly used functions to work with strings. Let's use the string `string = "God is great!"` for the examples:
 
-str = 'harry' 
+1. `len()` function – This function returns the length of the string.
 
-Now when operated on this string ‘str’, these functions do the following: 
+```python
+print(len(string))  # Output: 13
+```
 
-1. len () function – This function returns the length of the strings. 
+2. `string.startswith("God")` – This function checks if the string starts with "God".
 
-str = "harry" 
+```python
+print(string.startswith("God"))  # Output: True
+```
 
-print(len(str))  # Output: 5 
+3. `string.endswith("great")` – This function checks if the string ends with "great".
 
-2. String.endswith("rry") – This function_ tells whether the variable string ends with the string "rry" or not. If string is "harry", it returns true for "rry" since Harry ends with rry.
+```python
+print(string.endswith("great"))  # Output: False
+```
 
-str = "harry" 
+4. `string.count("g")` – This function counts the number of occurrences of the character "g".
 
-print(str.endswith("rry"))  # Output: True 
+```python
+print(string.count("g"))  # Output: 1
+```
 
-3. string.count("c") – counts the total number of occurrences of any character. 
+5. `string.index("g")` – This function returns the index of the first occurrence of the character "g".
 
-str = "harry" 
+```python
+print(string.index("g"))  # Output: 6
+```
 
-count = str.count("r") 
+6. `string.capitalize()` – This function capitalizes the first character of the string.
 
-print(count)  # Output: 2 
+```python
+print(string.capitalize())  # Output: "God is great!"
+```
 
-4. the first character of a given string. 
+7. `string.lower()` – This function converts all characters in the string to lowercase.
 
-str = "harry" 
+```python
+print(string.lower())  # Output: "god is great!"
+```
 
-capitalized_string = str.capitalize() 
+8. `string.upper()` – This function converts all characters in the string to uppercase.
 
-print(capitalized_string)  # Output: "Harry" 
+```python
+print(string.upper())  # Output: "GOD IS GREAT!"
+```
 
-5. string.find(word) – This function friends a word and returns the index of first occurrence of that word in the string. 
+9. `string.replace("great", "cool")` – This function replaces the word "great" with "cool" in the string.
 
-str = "harry" 
+```python
+print(string.replace("great", "cool"))  # Output: "God is cool!"
+```
 
-14 
+10. `string.find("great")` – This function finds the word "great" and returns the index of its first occurrence.
 
-index = str.find("rr") 
-
-print(index)  # Output: 2 
-
-6. string.replace (old word, new word ) – This function replace the old word with new word in the entire string. 
-
-str = "harry" 
-
-replaced_string = str.replace("r", "l")
-
-print(replaced_string)  # Output: "hally" 
+```python
+print(string.find("great"))  # Output: 7
+```
 
 ## ESCAPE SEQUENCE CHARACTERS 
 Sequence of characters after backslash "\" → Escape Sequence characters Escape Sequence characters comprise of more than one character but represent one character when used within the strings.
