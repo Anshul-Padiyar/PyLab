@@ -140,5 +140,42 @@ print(string.replace("great", "cool"))  # Output: "God is cool!"
 print(string.find("great"))  # Output: 7
 ```
 
-## ESCAPE SEQUENCE CHARACTERS 
-Sequence of characters after backslash "\" → Escape Sequence characters Escape Sequence characters comprise of more than one character but represent one character when used within the strings.
+## ESCAPE SEQUENCE CHARACTERS
+
+Escape sequences are special characters in strings that are preceded by a backslash (`\`). They represent characters that are difficult to include directly in a string. Here are some common escape sequences:
+
+1. Newline (`\n`): Moves the cursor to the next line.
+    ```python
+    string = "Tiny changes,\nremarkable results"
+    print(string)
+    # Output: Tiny changes,
+    # remarkable results
+    ```
+
+2. Tab (`\t`): Inserts a tab space.
+    ```python
+    string = "Tiny changes\t-->\tremarkable results"
+    print(string)
+    # Output: Tiny changes    -->    remarkable results
+    ```
+
+3. Double Quote (`\"`): Includes a double quote in the string.
+    ```python
+    string = "\"Tiny changes, remarkable results\""
+    print(string)
+    # Output: "Tiny changes, remarkable results"
+    ```
+
+4. Single Quote (`\'`): Includes a single quote in the string.
+    ```python
+    string = '\'Tiny changes, remarkable results\''
+    print(string)
+    # Output: 'Tiny changes, remarkable results'
+    ```
+
+5. Backslash (`\\`): Includes a backslash in the string.
+    ```python
+    string = "Tiny changes \\ remarkable results"
+    print(string)
+    # Output: Tiny changes \ remarkable results
+    ```
