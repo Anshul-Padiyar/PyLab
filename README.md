@@ -2,7 +2,7 @@
 
 Welcome to PyLab - My Python learning laboratory where I document my journey through Python programming.
 
-![Python Version](https://img.shields.io/badge/python-3.13-blue.svg)
+![Python Version](https://img.shields.io/badge/python-3.12.8-blue.svg)
 
 This repository contains my learning progress, exercises, and projects as I explore Python programming. Each chapter is organized with examples and problem solutions.
 
@@ -13,7 +13,7 @@ This repository contains my learning progress, exercises, and projects as I expl
 - [x] 00. [Introduction to Programming](./Chapter-00/)
 - [x] 01. [Modules, Comments & pip](./Chapter-01/)
 - [x] 02. [Variables and Datatypes](./Chapter-02/)
-- [ ] 03. [Strings](#)
+- [x] 03. [Strings](./Chapter-03/)
 - [ ] 04. [Lists and Tuples](#)
 - [ ] 05. [Dictionary & Sets](#)
 - [ ] 06. [Conditional Expressions](#)
