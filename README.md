@@ -14,7 +14,7 @@ This repository contains my learning progress, exercises, and projects as I expl
 - [x] 01. [Modules, Comments & pip](./Chapter-01/)
 - [x] 02. [Variables and Datatypes](./Chapter-02/)
 - [x] 03. [Strings](./Chapter-03/)
-- [ ] 04. [Lists and Tuples](#)
+- [ ] 04. [Lists and Tuples](./Chapter-04/)
 - [ ] 05. [Dictionary & Sets](#)
 - [ ] 06. [Conditional Expressions](#)
 - [ ] 07. [Loops](#)
