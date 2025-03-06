@@ -2,12 +2,12 @@
 
 marks = []
 
-marks.append(input("Enter student marks: "))
-marks.append(input("Enter student marks: "))
-marks.append(input("Enter student marks: "))
-marks.append(input("Enter student marks: "))
-marks.append(input("Enter student marks: "))
-marks.append(input("Enter student marks: "))
+marks.append(int(input("Enter student marks: ")))
+marks.append(int(input("Enter student marks: ")))
+marks.append(int(input("Enter student marks: ")))
+marks.append(int(input("Enter student marks: ")))
+marks.append(int(input("Enter student marks: ")))
+marks.append(int(input("Enter student marks: ")))
 
 print("Marks before sorting:", marks)
 
