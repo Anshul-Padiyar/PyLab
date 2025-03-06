@@ -2,7 +2,7 @@
 
 Welcome to PyLab - My Python learning laboratory where I document my journey through Python programming.
 
-![Python Version](https://img.shields.io/badge/python-3.12.8-blue.svg)
+[![Python Version](https://img.shields.io/badge/python-3.12.8-blue.svg)](https://github.com/Anshul-Padiyar/PyLab/blob/main/Chapter-00/README.md)
 
 This repository contains my learning progress, exercises, and projects as I explore Python programming. Each chapter is organized with examples and problem solutions.
 
@@ -14,7 +14,7 @@ This repository contains my learning progress, exercises, and projects as I expl
 - [x] 01. [Modules, Comments & pip](./Chapter-01/)
 - [x] 02. [Variables and Datatypes](./Chapter-02/)
 - [x] 03. [Strings](./Chapter-03/)
-- [ ] 04. [Lists and Tuples](./Chapter-04/)
+- [x] 04. [Lists and Tuples](./Chapter-04/)
 - [ ] 05. [Dictionary & Sets](#)
 - [ ] 06. [Conditional Expressions](#)
 - [ ] 07. [Loops](#)
