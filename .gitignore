@@ -36,9 +36,6 @@ env/
 .settings/
 .classpath
 
-# Resource folder
-[00]Resources/
-
 # OS specific
 .DS_Store
 Thumbs.db
