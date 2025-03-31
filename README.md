@@ -3,7 +3,7 @@
 Welcome to PyLab - My Python learning laboratory where I document my journey through Python programming.
 
 [![Python Version](https://img.shields.io/badge/python-3.12.8-blue.svg)](https://github.com/Anshul-Padiyar/PyLab/blob/main/Chapter-00/README.md)
-[![Last Updated](https://img.shields.io/badge/last%20updated-2025.03.31-yellow.svg)](https://github.com/yourusername/PyLab)
+[![Last Updated](https://img.shields.io/badge/last%20updated-2025.04.01-yellow.svg)](https://github.com/yourusername/PyLab)
 [![Learning Progress](https://img.shields.io/badge/learning%20progress-ongoing-brightgreen.svg)](https://github.com/yourusername/PyLab)
 
 This repository contains my learning progress, exercises, and projects as I explore Python programming. Each chapter is organized with examples and problem solutions.
@@ -20,7 +20,7 @@ This repository contains my learning progress, exercises, and projects as I expl
 - [x] 05. [Dictionary & Sets](./Chapter-05/)
 - [x] 06. [Conditional Expressions](./Chapter-06/)
 - [x] 07. [Loops](./Chapter-07/)
-- [ ] 08. [Functions & Recursions](#)
+- [ ] 08. [Functions & Recursions](/Chapter-08/)   _[working on it...]_
 
 ### Intermediate
 
@@ -79,8 +79,8 @@ Feel free to:
 - Open issues for discussions
 
 ## 📅 Learning Schedule
-- Weekdays: 4 hours/day
-- Weekends: 6 hours/day
+- Weekdays: 2 hours/day
+- Weekends: 4 hours/day
 - Weekly review: Sunday
 
 ## 📚 Resources
