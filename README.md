@@ -3,7 +3,7 @@
 Welcome to PyLab - My Python learning laboratory where I document my journey through Python programming.
 
 [![Python Version](https://img.shields.io/badge/python-3.12.8-blue.svg)](https://github.com/Anshul-Padiyar/PyLab/blob/main/Chapter-00/README.md)
-[![Last Updated](https://img.shields.io/badge/last%20updated-2025.04.02-yellow.svg)](https://github.com/yourusername/PyLab)
+[![Last Updated](https://img.shields.io/badge/last%20updated-2025.04.03-yellow.svg)](https://github.com/yourusername/PyLab)
 [![Learning Progress](https://img.shields.io/badge/learning%20progress-ongoing-brightgreen.svg)](https://github.com/yourusername/PyLab)
 
 This repository contains my learning progress, exercises, and projects as I explore Python programming. Each chapter is organized with examples and problem solutions.
@@ -57,7 +57,7 @@ This repository contains my learning progress, exercises, and projects as I expl
 
 ### Projects
 
-- [ ] [Project 1: Snake, Water, Gun Game](#)
+- [x] [Project 1: Rock, Paper, Scissors](./Project-01-Rock-Paper-Scissors/)
 - [ ] [Project 2: The Perfect Guess](#)
 - [ ] [Mega Project 1: Jarvis](#)
 - [ ] [Mega Project 2: Auto Reply AI Chatbot](#)
@@ -77,11 +77,6 @@ Feel free to:
 - Suggest improvements
 - Share learning resources
 - Open issues for discussions
-
-## 📅 Learning Schedule
-- Weekdays: 2 hours/day
-- Weekends: 4 hours/day
-- Weekly review: Sunday
 
 ## 📚 Resources
 
