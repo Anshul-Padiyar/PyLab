@@ -1,10 +1,10 @@
-file = open("file.txt")
+file = open("Chapter-09/file.txt")
 data = file.readlines() 
 # readlines(): Returns a list of lines from the file
 print(f"data:{data}\ntype of 'data': {type(data)}")
 file.close()
 
-file = open("file.txt")
+file = open("Chapter-09/file.txt")
 line01 = file.readline()
 # readline(): read the first line of the file "file.txt"
 print(line01)
