@@ -2,7 +2,7 @@
 
 with open("Chapter-09/poems.txt") as poems:
     poem = poems.read()
-    if poem.count("twinkle"):
+    if ("twinkle" in poem):
         print("Yes, It contains the word 'twinkle'\n")
     else :
         print("It do not contains the word ‘twinkle’\n")
