@@ -3,8 +3,7 @@
 Welcome to PyLab - My Python learning laboratory where I document my journey through Python programming.
 
 ![Python Version](https://img.shields.io/badge/python-3.12.8-blue.svg)
-![Last Updated](https://img.shields.io/badge/last%20updated-2025.04.22-yellow.svg)
-![Learning Progress](https://img.shields.io/badge/learning%20progress-Off_Track_😕-orange.svg)
+![Last Updated](https://img.shields.io/badge/last%20updated-2025.05.04-yellow.svg)
 
 This repository contains my learning progress, exercises, and projects as I explore Python programming. Each chapter is organized with examples and problem solutions.
 
@@ -25,7 +24,7 @@ This repository contains my learning progress, exercises, and projects as I expl
 ### Intermediate
 
 - [x] 09. [File I/O](./Chapter-09/)
-- [ ] 10. [Object Oriented Programming](#)
+- [x] 10. [Object Oriented Programming](./Chapter-10-OOP/)
 
 ### Projects
 
