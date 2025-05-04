@@ -29,7 +29,7 @@ This repository contains my learning progress, exercises, and projects as I expl
 ### Projects
 
 - [x] [Project 1: Rock, Paper, Scissors](./Project-01-Rock-Paper-Scissors/)
-- [ ] [Project 2: The Perfect Guess](#)
+- [x] [Project 2: The Number Guessing Game](./Project-02-The-Number-Guessing-Game/)
 - [ ] [Mega Project 1: Jarvis](#)
 - [ ] [Mega Project 2: Auto Reply AI Chatbot](#)
 
